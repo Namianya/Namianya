@@ -39,6 +39,9 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
 <hr></hr>
 <br>
 
@@ -49,6 +52,4 @@
 <a href="https://instagram.com/wekesa350" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wekesa350" height="20" width="20" /></a>
   <a href="https://dev.to/wekesa350" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="wekesa350" height="20" width="20" /></a>
 </p>
-<br>
-<br>
-<br>
+
