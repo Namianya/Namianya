@@ -2,10 +2,10 @@
 <br>
 <br>
 <br>
-<p align="center">
+
 ![vue](https://api.iconify.design/logos:nuxt-icon.svg)
   
-</p>
+
 <br>
 <br>
 
