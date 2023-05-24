@@ -3,8 +3,14 @@
 <br>
 <br>
 
-![vue](https://api.iconify.design/logos:nuxt-icon.svg)
-  
+![nuxt](https://api.iconify.design/logos:nuxt-icon.svg)
+![vue](https://api.iconify.design/logos:vue.svg)
+![flutter](https://api.iconify.design/logos:flutter.svg)
+![typescript](https://api.iconify.design/logos:typescript-icon.svg)
+![android](https://api.iconify.design/logos:android-vertical.svg)
+![azure](https://api.iconify.design/logos:azure-icon.svg)
+![mongo](https://api.iconify.design/logos:mongodb.svg)
+![firebase](https://api.iconify.design/logos:firebase.svg)
 
 <br>
 <br>
